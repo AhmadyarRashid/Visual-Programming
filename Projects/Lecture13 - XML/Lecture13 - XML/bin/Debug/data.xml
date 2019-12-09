@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Phonebook>
+  <Contact>
+    <Name>Mahad</Name>
+    <Address>Ciit</Address>
+  </Contact>
+  <Contact>
+    <Name>Mahad</Name>
+    <Address>Ciit</Address>
+  </Contact>
+  <Contact>
+    <Name>Mahad</Name>
+    <Address>Ciit</Address>
+  </Contact>
+  <Contact>
+    <Name>Mahad</Name>
+    <Address>Ciit</Address>
+  </Contact>
+  <Contact>
+    <Name>Mahad</Name>
+    <Address>Ciit</Address>
+  </Contact>
+  <Contact>
+    <Name>LT</Name>
+    <Address>NUST</Address>
+  </Contact>
+  <Contact>
+    <Name>LT1</Name>
+    <Address>NUST</Address>
+  </Contact>
+</Phonebook>

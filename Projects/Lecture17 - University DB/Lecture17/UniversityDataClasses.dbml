@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="University" Class="UniversityDataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\University.mdf;Integrated Security=True" SettingsObjectName="Lecture17.Properties.Settings" SettingsPropertyName="UniversityConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Course" Member="Courses">
+    <Type Name="Course">
+      <Column Name="CourseNumber" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="CourseName" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="CreditHours" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Department" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="Course_CourseOffering" Member="CourseOfferings" ThisKey="CourseNumber" OtherKey="CourseNumber" Type="CourseOffering" />
+      <Association Name="Course_PreReq" Member="PreReqs" ThisKey="CourseNumber" OtherKey="CourseNumber" Type="PreReq" />
+      <Association Name="Course_PreReq1" Member="PreReqs1" ThisKey="CourseNumber" OtherKey="PreReqNumber" Type="PreReq" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CourseOffering" Member="CourseOfferings">
+    <Type Name="CourseOffering">
+      <Column Name="OfferingId" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="CourseNumber" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Semester" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Year" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Instructor" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="CourseOffering_GradeReport" Member="GradeReports" ThisKey="OfferingId" OtherKey="OfferingId" Type="GradeReport" />
+      <Association Name="Course_CourseOffering" Member="Course" ThisKey="CourseNumber" OtherKey="CourseNumber" Type="Course" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.GradeReport" Member="GradeReports">
+    <Type Name="GradeReport">
+      <Column Name="StudentNumber" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="OfferingId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Grade" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Association Name="CourseOffering_GradeReport" Member="CourseOffering" ThisKey="OfferingId" OtherKey="OfferingId" Type="CourseOffering" IsForeignKey="true" />
+      <Association Name="Student_GradeReport" Member="Student" ThisKey="StudentNumber" OtherKey="StudentNumber" Type="Student" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PreReq" Member="PreReqs">
+    <Type Name="PreReq">
+      <Column Name="CourseNumber" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PreReqNumber" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Association Name="Course_PreReq" Member="Course" ThisKey="CourseNumber" OtherKey="CourseNumber" Type="Course" IsForeignKey="true" />
+      <Association Name="Course_PreReq1" Member="Course1" ThisKey="PreReqNumber" OtherKey="CourseNumber" Type="Course" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Student" Member="Students">
+    <Type Name="Student">
+      <Column Name="StudentNumber" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Class" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Major" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="Student_GradeReport" Member="GradeReports" ThisKey="StudentNumber" OtherKey="StudentNumber" Type="GradeReport" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d7b2509-14ee-4430-86e2-a27e9ade8de7" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MainWindow.xaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture17/MainWindow.xaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1523978747518" expanded="true" signature="0:347" ph="&lt;&lt;Grid&gt;&#10;&#10;        &lt;StackPanel&gt;&#10;            &lt;DataGrid Name=&quot;dg&quot;/&gt;&#10;        &lt;/StackPanel&gt;&#10;       &#10;    &lt;/Grid&gt;.../&gt;" />
+                <marker date="1523978747518" expanded="true" signature="233:337" ph="&lt;&lt;StackPanel&gt;&#10;            &lt;DataGrid Name=&quot;dg&quot;/&gt;&#10;        &lt;/StackPanel&gt;.../&gt;" />
+                <marker date="1523978747518" expanded="true" signature="249:317" ph="&lt;&lt;DataGrid Name=&quot;dg&quot;/&gt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.xaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture17/App.xaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1523855156218" expanded="true" signature="0:308" ph="&lt;&lt;Application.Resources&gt;&#10;         &#10;    &lt;/Application.Resources&gt;.../&gt;" />
+                <marker date="1523855156218" expanded="true" signature="231:293" ph="&lt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainWindow.xaml.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lecture17/MainWindow.xaml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1525004393939" expanded="false" signature="6:381" ph="..." />
+                <marker date="1525004393939" expanded="true" signature="403:2825" ph="{...}" />
+                <marker date="1525004393939" expanded="true" signature="409:487" ph="/// Interaction logic for MainWindow.xaml ... " />
+                <marker date="1525004393939" expanded="true" signature="533:2823" ph="{...}" />
+                <marker date="1525004393939" expanded="true" signature="652:737" ph="{...}" />
+                <marker date="1525004393939" expanded="true" signature="781:1388" ph="{...}" />
+                <marker date="1525004393939" expanded="true" signature="926:1213" ph="/* select CourseNumber from ... */" />
+                <marker date="1525004393939" expanded="true" signature="1248:1321" ph="{...}" />
+                <marker date="1525004393939" expanded="true" signature="1435:1820" ph="{...}" />
+                <marker date="1525004393939" expanded="true" signature="1599:1773" ph="{...}" />
+                <marker date="1525004393939" expanded="true" signature="1867:2151" ph="{...}" />
+                <marker date="1525004393939" expanded="true" signature="1950:2105" ph="{...}" />
+                <marker date="1525004393939" expanded="true" signature="2193:2452" ph="{...}" />
+                <marker date="1525004393939" expanded="true" signature="2326:2406" ph="{...}" />
+                <marker date="1525004393939" expanded="true" signature="2500:2815" ph="{...}" />
+                <marker date="1525004393939" expanded="true" signature="2687:2769" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Lecture17/App.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lecture17/MainWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lecture17/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Lecture17 (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Lecture17 (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Lecture17" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Lecture17 (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Lecture17" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MainWindow.xaml" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Lecture17/bin/Debug/Lecture17.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lecture17/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Lecture17/Lecture17.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d7b2509-14ee-4430-86e2-a27e9ade8de7" name="Default" comment="" />
+      <created>1525281366310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525281366310</updated>
+      <workItem from="1525281368415" duration="50000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="50000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="XAML Preview" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="false" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Lecture17/MainWindow.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1523978747518" expanded="true" signature="0:347" ph="&lt;&lt;Grid&gt;&#10;&#10;        &lt;StackPanel&gt;&#10;            &lt;DataGrid Name=&quot;dg&quot;/&gt;&#10;        &lt;/StackPanel&gt;&#10;       &#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1523978747518" expanded="true" signature="233:337" ph="&lt;&lt;StackPanel&gt;&#10;            &lt;DataGrid Name=&quot;dg&quot;/&gt;&#10;        &lt;/StackPanel&gt;.../&gt;" />
+            <marker date="1523978747518" expanded="true" signature="249:317" ph="&lt;&lt;DataGrid Name=&quot;dg&quot;/&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture17/App.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1523855156218" expanded="true" signature="0:308" ph="&lt;&lt;Application.Resources&gt;&#10;         &#10;    &lt;/Application.Resources&gt;.../&gt;" />
+            <marker date="1523855156218" expanded="true" signature="231:293" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture17/MainWindow.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1525004393939" expanded="false" signature="6:381" ph="..." />
+            <marker date="1525004393939" expanded="true" signature="403:2825" ph="{...}" />
+            <marker date="1525004393939" expanded="true" signature="409:487" ph="/// Interaction logic for MainWindow.xaml ... " />
+            <marker date="1525004393939" expanded="true" signature="533:2823" ph="{...}" />
+            <marker date="1525004393939" expanded="true" signature="652:737" ph="{...}" />
+            <marker date="1525004393939" expanded="true" signature="781:1388" ph="{...}" />
+            <marker date="1525004393939" expanded="true" signature="926:1213" ph="/* select CourseNumber from ... */" />
+            <marker date="1525004393939" expanded="true" signature="1248:1321" ph="{...}" />
+            <marker date="1525004393939" expanded="true" signature="1435:1820" ph="{...}" />
+            <marker date="1525004393939" expanded="true" signature="1599:1773" ph="{...}" />
+            <marker date="1525004393939" expanded="true" signature="1867:2151" ph="{...}" />
+            <marker date="1525004393939" expanded="true" signature="1950:2105" ph="{...}" />
+            <marker date="1525004393939" expanded="true" signature="2193:2452" ph="{...}" />
+            <marker date="1525004393939" expanded="true" signature="2326:2406" ph="{...}" />
+            <marker date="1525004393939" expanded="true" signature="2500:2815" ph="{...}" />
+            <marker date="1525004393939" expanded="true" signature="2687:2769" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

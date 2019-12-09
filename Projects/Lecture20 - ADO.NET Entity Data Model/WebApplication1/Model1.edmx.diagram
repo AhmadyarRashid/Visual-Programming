@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f69d6bf1a92a4a5ea5ca0fd1ae02db17" Name="Diagram1" ZoomLevel="107">
+        <EntityTypeShape EntityType="JPDatabaseModel.Admin" Width="1.5" PointX="0.75" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="JPDatabaseModel.JobApplication" Width="1.5" PointX="2.375" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="JPDatabaseModel.Listing" Width="1.5" PointX="6" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="JPDatabaseModel.Message" Width="1.5" PointX="3" PointY="3.5" IsExpanded="true" />
+        <AssociationConnector Association="JPDatabaseModel.FK_JobApplication_Listing" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

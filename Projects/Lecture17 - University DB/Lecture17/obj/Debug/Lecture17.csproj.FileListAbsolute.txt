@@ -1,0 +1,35 @@
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture17\Lecture17\bin\Debug\Lecture17.exe.config
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture17\Lecture17\bin\Debug\University.mdf
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture17\Lecture17\bin\Debug\University_log.ldf
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture17\Lecture17\bin\Debug\Lecture17.exe
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture17\Lecture17\bin\Debug\Lecture17.pdb
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture17\Lecture17\obj\Debug\Lecture17.csprojResolveAssemblyReference.cache
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture17\Lecture17\obj\Debug\MainWindow.baml
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture17\Lecture17\obj\Debug\MainWindow.g.cs
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture17\Lecture17\obj\Debug\App.g.cs
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture17\Lecture17\obj\Debug\Lecture17_Content.g.cs
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture17\Lecture17\obj\Debug\Lecture17_MarkupCompile.cache
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture17\Lecture17\obj\Debug\Lecture17.g.resources
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture17\Lecture17\obj\Debug\Lecture17.Properties.Resources.resources
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture17\Lecture17\obj\Debug\Lecture17.csproj.GenerateResource.Cache
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture17\Lecture17\obj\Debug\Lecture17.exe
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture17\Lecture17\obj\Debug\Lecture17.pdb
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture17 - University DB\Lecture17\bin\Debug\Lecture17.exe.config
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture17 - University DB\Lecture17\obj\Debug\Lecture17.exe
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture17 - University DB\Lecture17\obj\Debug\Lecture17.pdb
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture17 - University DB\Lecture17\bin\Debug\University.mdf
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture17 - University DB\Lecture17\bin\Debug\University_log.ldf
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture17 - University DB\Lecture17\obj\Debug\Lecture17.csprojResolveAssemblyReference.cache
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture17 - University DB\Lecture17\obj\Debug\MainWindow.baml
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture17 - University DB\Lecture17\obj\Debug\MainWindow.g.cs
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture17 - University DB\Lecture17\obj\Debug\App.g.cs
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture17 - University DB\Lecture17\obj\Debug\Lecture17_Content.g.cs
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture17 - University DB\Lecture17\obj\Debug\Lecture17_MarkupCompile.cache
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture17 - University DB\Lecture17\obj\Debug\Lecture17.g.resources
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture17 - University DB\Lecture17\obj\Debug\Lecture17.Properties.Resources.resources
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture17 - University DB\Lecture17\obj\Debug\Lecture17.csproj.GenerateResource.Cache
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture17 - University DB\Lecture17\bin\Debug\Lecture17.exe
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture17 - University DB\Lecture17\bin\Debug\Lecture17.pdb
+D:\Programs\Project of Visual studio\Projects\Lecture17 - University DB\Lecture17\bin\Debug\Lecture17.exe.config
+D:\Programs\Project of Visual studio\Projects\Lecture17 - University DB\Lecture17\obj\Debug\Lecture17.exe
+D:\Programs\Project of Visual studio\Projects\Lecture17 - University DB\Lecture17\obj\Debug\Lecture17.pdb

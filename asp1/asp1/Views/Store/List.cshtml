@@ -1,0 +1,54 @@
+﻿
+@{
+    ViewBag.Title = "List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>List</h2>
+
+@{
+   // String[] fruit = { "apple" , "banana" , "graps"};
+    <ul>
+        @{
+            foreach (String a in ViewBag.cities)
+            {
+                <li>@a</li>
+            }
+        }
+    </ul>
+    
+    <ul>
+        <li>Student List</li>
+        @{
+            foreach (dynamic a in ViewBag.plist)
+            {
+                <ul>
+                    <li>@a.name</li>
+                    <li>@a.age</li>
+                    <li>@a.contact</li>
+                </ul>
+            }
+        }
+    </ul>
+
+
+    <ul>
+        <li>customer List</li>
+        @{
+            foreach (dynamic a in ViewBag.pcus)
+            {
+                <ul>
+                    <li>@a.first_name</li>
+                    <li>@a.last_name</li>
+                    <li>@a.email</li>
+                </ul>
+            }
+        }
+    </ul>
+    
+    <button type="button" onclick="btn_click" value="new Page" ></button>
+    
+   
+    
+   
+}

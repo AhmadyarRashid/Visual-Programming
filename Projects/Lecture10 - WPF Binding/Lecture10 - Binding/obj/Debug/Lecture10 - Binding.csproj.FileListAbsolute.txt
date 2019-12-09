@@ -1,0 +1,26 @@
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture10 - Binding\Lecture10 - Binding\bin\Debug\Lecture10 - Binding.exe.config
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture10 - Binding\Lecture10 - Binding\bin\Debug\Lecture10 - Binding.exe
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture10 - Binding\Lecture10 - Binding\bin\Debug\Lecture10 - Binding.pdb
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture10 - Binding\Lecture10 - Binding\obj\Debug\Lecture10 - Binding.csprojResolveAssemblyReference.cache
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture10 - Binding\Lecture10 - Binding\obj\Debug\MainWindow.baml
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture10 - Binding\Lecture10 - Binding\obj\Debug\MainWindow.g.cs
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture10 - Binding\Lecture10 - Binding\obj\Debug\App.g.cs
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture10 - Binding\Lecture10 - Binding\obj\Debug\Lecture10 - Binding_MarkupCompile.cache
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture10 - Binding\Lecture10 - Binding\obj\Debug\Lecture10 - Binding.g.resources
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture10 - Binding\Lecture10 - Binding\obj\Debug\Lecture10___Binding.Properties.Resources.resources
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture10 - Binding\Lecture10 - Binding\obj\Debug\Lecture10 - Binding.csproj.GenerateResource.Cache
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture10 - Binding\Lecture10 - Binding\obj\Debug\Lecture10 - Binding.exe
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture10 - Binding\Lecture10 - Binding\obj\Debug\Lecture10 - Binding.pdb
+D:\Programs\Project of Visual studio\Projects\Lecture10 - WPF Binding\Lecture10 - Binding\bin\Debug\Lecture10 - Binding.exe.config
+D:\Programs\Project of Visual studio\Projects\Lecture10 - WPF Binding\Lecture10 - Binding\obj\Debug\Lecture10 - Binding.exe
+D:\Programs\Project of Visual studio\Projects\Lecture10 - WPF Binding\Lecture10 - Binding\obj\Debug\Lecture10 - Binding.pdb
+D:\Programs\Project of Visual studio\Projects\Lecture10 - WPF Binding\Lecture10 - Binding\bin\Debug\Lecture10 - Binding.exe
+D:\Programs\Project of Visual studio\Projects\Lecture10 - WPF Binding\Lecture10 - Binding\bin\Debug\Lecture10 - Binding.pdb
+D:\Programs\Project of Visual studio\Projects\Lecture10 - WPF Binding\Lecture10 - Binding\obj\Debug\Lecture10 - Binding.csprojResolveAssemblyReference.cache
+D:\Programs\Project of Visual studio\Projects\Lecture10 - WPF Binding\Lecture10 - Binding\obj\Debug\MainWindow.baml
+D:\Programs\Project of Visual studio\Projects\Lecture10 - WPF Binding\Lecture10 - Binding\obj\Debug\MainWindow.g.cs
+D:\Programs\Project of Visual studio\Projects\Lecture10 - WPF Binding\Lecture10 - Binding\obj\Debug\App.g.cs
+D:\Programs\Project of Visual studio\Projects\Lecture10 - WPF Binding\Lecture10 - Binding\obj\Debug\Lecture10 - Binding_MarkupCompile.cache
+D:\Programs\Project of Visual studio\Projects\Lecture10 - WPF Binding\Lecture10 - Binding\obj\Debug\Lecture10 - Binding.g.resources
+D:\Programs\Project of Visual studio\Projects\Lecture10 - WPF Binding\Lecture10 - Binding\obj\Debug\Lecture10___Binding.Properties.Resources.resources
+D:\Programs\Project of Visual studio\Projects\Lecture10 - WPF Binding\Lecture10 - Binding\obj\Debug\Lecture10 - Binding.csproj.GenerateResource.Cache

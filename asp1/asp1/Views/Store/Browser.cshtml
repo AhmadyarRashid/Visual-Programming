@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "Browser";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Browser</h2>
+<h3>@ViewBag.heading</h3>
+
+@using (Html.BeginForm("Browser","Store",FormMethod.Post))
+{
+    <input type="email" name="email"  placeholder="Email"/>
+    <input type="password" name="pass"  placeholder="Password"/>
+    <button type="submit" >Login</button>
+}

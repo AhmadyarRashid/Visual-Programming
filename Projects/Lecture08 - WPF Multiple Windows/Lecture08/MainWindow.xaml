@@ -1,0 +1,32 @@
+﻿<Window x:Class="Lecture08.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            
+            <ColumnDefinition Width="1*"/>
+
+            <ColumnDefinition Width="*"/>
+
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" Grid.ColumnSpan="2">
+            <TextBox Name="fText" Text="Name" GotFocus="fText_GotFocus"/>
+            <TextBox Name="lText" Text="Last Name"/>
+            <TextBox Name="Age" Text="18"/>
+            <TextBox Name="Department" Text="Department"/>
+            
+            
+            <WrapPanel>
+                <TextBlock>Gender</TextBlock>
+                <RadioButton Name="mRadio" Content="Male"/>
+                <RadioButton Name="lRadio" Content="Female"/>
+            </WrapPanel>
+            
+            <Button Content="Submit" Name="submit" Click="submit_Click"/>
+        </StackPanel>
+
+        
+    </Grid>
+</Window>

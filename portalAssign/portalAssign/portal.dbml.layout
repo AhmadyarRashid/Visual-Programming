@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="portal">
+  <DataContextMoniker Name="/portalDataContext" />
+  <nestedChildShapes>
+    <classShape Id="4dc8f90c-5f91-4311-914e-96769bb3ceee" absoluteBounds="5.125, 1.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/portalDataContext/course" />
+      <nestedChildShapes>
+        <elementListCompartment Id="11cd71fb-96b7-4399-ae93-de16ccee9489" absoluteBounds="5.14, 2.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="edeae738-1ecb-4895-ad48-c1531f818cf9" absoluteBounds="4.375, 2.625, 2, 1.3862939453125">
+      <DataClassMoniker Name="/portalDataContext/grade" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e850f4dc-c36c-4b6e-8cd4-766c916753ca" absoluteBounds="4.39, 3.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="230f76cb-f5fc-4609-8408-f5c3fd9db188" absoluteBounds="4.25, 1.375, 2, 1.3862939453125">
+      <DataClassMoniker Name="/portalDataContext/preReq" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f83495ac-46eb-482c-878d-3e389ff8707e" absoluteBounds="4.265, 1.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(6.125 : 1.75); (6.125 : 1.125); (5.25 : 1.125); (5.25 : 1.375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/portalDataContext/course/course_preReq" />
+      <nodes>
+        <classShapeMoniker Id="4dc8f90c-5f91-4311-914e-96769bb3ceee" />
+        <classShapeMoniker Id="230f76cb-f5fc-4609-8408-f5c3fd9db188" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="3a441f8f-3975-43e5-9cde-a9dec1c2323b" absoluteBounds="2.625, 1.375, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/portalDataContext/section" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3a2ebdb3-61d5-435b-967d-f85082e3acf6" absoluteBounds="2.64, 1.835, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.4999995 : 3.14589680989583); (3.4999995 : 3.57859587760417); (4.375 : 3.57859587760417)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/portalDataContext/section/section_grade" />
+      <nodes>
+        <classShapeMoniker Id="3a441f8f-3975-43e5-9cde-a9dec1c2323b" />
+        <classShapeMoniker Id="edeae738-1ecb-4895-ad48-c1531f818cf9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.125 : 2.53929768880208); (7.5 : 2.53929768880208); (7.5 : 0.75); (3.625 : 0.75); (3.625 : 1.375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/portalDataContext/course/course_section" />
+      <nodes>
+        <classShapeMoniker Id="4dc8f90c-5f91-4311-914e-96769bb3ceee" />
+        <classShapeMoniker Id="3a441f8f-3975-43e5-9cde-a9dec1c2323b" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="272b18d3-0038-4fcc-9a58-0ba1e73a5fde" absoluteBounds="6.875, 3.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/portalDataContext/student" />
+      <nestedChildShapes>
+        <elementListCompartment Id="687d623d-c6ed-4f21-a76a-ac21ad99f2a7" absoluteBounds="6.89, 3.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(6.875 : 3.75564697265625); (6.375 : 3.75564697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/portalDataContext/student/student_grade" />
+      <nodes>
+        <classShapeMoniker Id="272b18d3-0038-4fcc-9a58-0ba1e73a5fde" />
+        <classShapeMoniker Id="edeae738-1ecb-4895-ad48-c1531f818cf9" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

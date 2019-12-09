@@ -1,0 +1,76 @@
+﻿@model IEnumerable<WebApplication1.Listing>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ListingDescription)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ListedDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GpaRequirement)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ExperienceRequirement)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.OpenToAll)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ListingTitle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AgeRequirement)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UserId)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ListingDescription)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ListedDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GpaRequirement)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ExperienceRequirement)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.OpenToAll)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ListingTitle)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AgeRequirement)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserId)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ListingId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ListingId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ListingId })
+        </td>
+    </tr>
+}
+
+</table>

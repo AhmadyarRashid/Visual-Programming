@@ -1,0 +1,46 @@
+﻿<Window x:Class="assignment_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="600" Width="400">
+    <Border Padding="10">
+    <StackPanel>
+        <Border Padding="15">
+            <TextBlock HorizontalAlignment="Center" FontSize="20" FontFamily="roboto" Text="Student Login" FontWeight="Bold" />
+            
+            
+        </Border>
+        <Border Padding="20"></Border>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            
+            <TextBlock Grid.Column="0" Text="User Name"></TextBlock>
+            <TextBox Grid.Column="1" Name="loginemail"></TextBox> 
+        </Grid>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Grid.Column="0" Text="Password"></TextBlock>
+            <TextBox Grid.Column="1" Name="loginpassword"></TextBox>
+        </Grid>
+        <Border Padding="20"></Border>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="2*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+ 
+            <Button Grid.Column="1" Content="Login" Click="Button_Click"></Button>
+       </Grid>
+
+
+    </StackPanel>
+    </Border>
+</Window>

@@ -1,0 +1,50 @@
+I:\visual studio 2013\Projects\Lecture14\Lecture14\bin\Debug\Database1.mdf
+I:\visual studio 2013\Projects\Lecture14\Lecture14\bin\Debug\Database1_log.ldf
+I:\visual studio 2013\Projects\Lecture14\Lecture14\bin\Debug\Lecture14.exe.config
+I:\visual studio 2013\Projects\Lecture14\Lecture14\bin\Debug\Lecture14.exe
+I:\visual studio 2013\Projects\Lecture14\Lecture14\bin\Debug\Lecture14.pdb
+I:\visual studio 2013\Projects\Lecture14\Lecture14\obj\Debug\MainWindow.baml
+I:\visual studio 2013\Projects\Lecture14\Lecture14\obj\Debug\MainWindow.g.cs
+I:\visual studio 2013\Projects\Lecture14\Lecture14\obj\Debug\App.g.cs
+I:\visual studio 2013\Projects\Lecture14\Lecture14\obj\Debug\Lecture14_Content.g.cs
+I:\visual studio 2013\Projects\Lecture14\Lecture14\obj\Debug\Lecture14_MarkupCompile.cache
+I:\visual studio 2013\Projects\Lecture14\Lecture14\obj\Debug\Lecture14.g.resources
+I:\visual studio 2013\Projects\Lecture14\Lecture14\obj\Debug\Lecture14.Properties.Resources.resources
+I:\visual studio 2013\Projects\Lecture14\Lecture14\obj\Debug\Lecture14.csproj.GenerateResource.Cache
+I:\visual studio 2013\Projects\Lecture14\Lecture14\obj\Debug\Lecture14.exe
+I:\visual studio 2013\Projects\Lecture14\Lecture14\obj\Debug\Lecture14.pdb
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - SQL\Lecture14\bin\Debug\Lecture14.exe.config
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - SQL\Lecture14\obj\Debug\Lecture14.exe
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - SQL\Lecture14\obj\Debug\Lecture14.pdb
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - SQL\Lecture14\bin\Debug\Database1.mdf
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - SQL\Lecture14\bin\Debug\Database1_log.ldf
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - SQL\Lecture14\bin\Debug\Lecture14.exe
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - SQL\Lecture14\bin\Debug\Lecture14.pdb
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - SQL\Lecture14\obj\Debug\Lecture14.csprojResolveAssemblyReference.cache
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - SQL\Lecture14\obj\Debug\MainWindow.baml
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - SQL\Lecture14\obj\Debug\MainWindow.g.cs
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - SQL\Lecture14\obj\Debug\App.g.cs
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - SQL\Lecture14\obj\Debug\Lecture14_Content.g.cs
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - SQL\Lecture14\obj\Debug\Lecture14_MarkupCompile.cache
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - SQL\Lecture14\obj\Debug\Lecture14.g.resources
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - SQL\Lecture14\obj\Debug\Lecture14.Properties.Resources.resources
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - SQL\Lecture14\obj\Debug\Lecture14.csproj.GenerateResource.Cache
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - DB and SQL\Lecture14\bin\Debug\Lecture14.exe.config
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - DB and SQL\Lecture14\obj\Debug\Lecture14.exe
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - DB and SQL\Lecture14\obj\Debug\Lecture14.pdb
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - DB and SQL\Lecture14\bin\Debug\Database1.mdf
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - DB and SQL\Lecture14\bin\Debug\Database1_log.ldf
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - DB and SQL\Lecture14\bin\Debug\Lecture14.exe
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - DB and SQL\Lecture14\bin\Debug\Lecture14.pdb
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - DB and SQL\Lecture14\obj\Debug\Lecture14.csprojResolveAssemblyReference.cache
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - DB and SQL\Lecture14\obj\Debug\MainWindow.baml
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - DB and SQL\Lecture14\obj\Debug\MainWindow.g.cs
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - DB and SQL\Lecture14\obj\Debug\App.g.cs
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - DB and SQL\Lecture14\obj\Debug\Lecture14_Content.g.cs
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - DB and SQL\Lecture14\obj\Debug\Lecture14_MarkupCompile.cache
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - DB and SQL\Lecture14\obj\Debug\Lecture14.g.resources
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - DB and SQL\Lecture14\obj\Debug\Lecture14.Properties.Resources.resources
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture14 & 15 - DB and SQL\Lecture14\obj\Debug\Lecture14.csproj.GenerateResource.Cache
+D:\Programs\Project of Visual studio\Projects\Lecture14 & 15 - DB and SQL\Lecture14\bin\Debug\Lecture14.exe.config
+D:\Programs\Project of Visual studio\Projects\Lecture14 & 15 - DB and SQL\Lecture14\obj\Debug\Lecture14.exe
+D:\Programs\Project of Visual studio\Projects\Lecture14 & 15 - DB and SQL\Lecture14\obj\Debug\Lecture14.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mahad\documents\visual studio 2013\Projects\Lecture13 - XML\PracticeXML\bin\Debug\PracticeXML.exe.config
+C:\Users\Mahad\documents\visual studio 2013\Projects\Lecture13 - XML\PracticeXML\bin\Debug\PracticeXML.exe
+C:\Users\Mahad\documents\visual studio 2013\Projects\Lecture13 - XML\PracticeXML\bin\Debug\PracticeXML.pdb
+C:\Users\Mahad\documents\visual studio 2013\Projects\Lecture13 - XML\PracticeXML\obj\Debug\PracticeXML.csprojResolveAssemblyReference.cache
+C:\Users\Mahad\documents\visual studio 2013\Projects\Lecture13 - XML\PracticeXML\obj\Debug\PracticeXML.exe
+C:\Users\Mahad\documents\visual studio 2013\Projects\Lecture13 - XML\PracticeXML\obj\Debug\PracticeXML.pdb

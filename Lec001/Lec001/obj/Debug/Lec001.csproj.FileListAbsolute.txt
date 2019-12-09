@@ -1,0 +1,6 @@
+D:\Programs\Project of Visual studio\Lec001\Lec001\bin\Debug\Lec001.exe.config
+D:\Programs\Project of Visual studio\Lec001\Lec001\bin\Debug\Lec001.exe
+D:\Programs\Project of Visual studio\Lec001\Lec001\bin\Debug\Lec001.pdb
+D:\Programs\Project of Visual studio\Lec001\Lec001\obj\Debug\Lec001.csprojResolveAssemblyReference.cache
+D:\Programs\Project of Visual studio\Lec001\Lec001\obj\Debug\Lec001.exe
+D:\Programs\Project of Visual studio\Lec001\Lec001\obj\Debug\Lec001.pdb

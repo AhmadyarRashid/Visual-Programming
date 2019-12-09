@@ -1,0 +1,114 @@
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\obj\Debug\Lecture19 - ASP.NET.csprojResolveAssemblyReference.cache
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\obj\Debug\Lecture19___ASP.NET.Migrations.InitialCreate.resources
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\obj\Debug\Lecture19 - ASP.NET.csproj.GenerateResource.Cache
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Lecture19 - ASP.NET.dll.config
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Lecture19 - ASP.NET.dll
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Lecture19 - ASP.NET.pdb
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Antlr3.Runtime.dll
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\EntityFramework.dll
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\EntityFramework.SqlServer.dll
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Microsoft.Owin.dll
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Microsoft.Owin.Security.dll
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Newtonsoft.Json.dll
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Owin.dll
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\System.Web.Helpers.dll
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\System.Web.Mvc.dll
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\System.Web.Optimization.dll
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\System.Web.Razor.dll
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\System.Web.WebPages.dll
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\WebGrease.dll
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\System.Web.Helpers.xml
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\System.Web.Mvc.xml
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\System.Web.Optimization.xml
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\System.Web.Razor.xml
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\System.Web.WebPages.xml
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Antlr3.Runtime.pdb
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Newtonsoft.Json.xml
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\EntityFramework.xml
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\EntityFramework.SqlServer.xml
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Microsoft.Owin.xml
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Microsoft.Owin.Security.xml
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\obj\Debug\Lecture19 - ASP.NET.dll
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture19 - ASP.NET\Lecture19 - ASP.NET\obj\Debug\Lecture19 - ASP.NET.pdb
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Lecture19 - ASP.NET.dll.config
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Lecture19 - ASP.NET.dll
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Lecture19 - ASP.NET.pdb
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Antlr3.Runtime.dll
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\EntityFramework.dll
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\EntityFramework.SqlServer.dll
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Microsoft.Owin.dll
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Microsoft.Owin.Security.dll
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Microsoft.Owin.Security.Google.dll
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Microsoft.Web.Infrastructure.dll
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Newtonsoft.Json.dll
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Owin.dll
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\System.Web.Helpers.dll
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\System.Web.Mvc.dll
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\System.Web.Optimization.dll
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\System.Web.Razor.dll
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\System.Web.WebPages.Deployment.dll
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\System.Web.WebPages.dll
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\System.Web.WebPages.Razor.dll
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\WebGrease.dll
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\System.Web.Helpers.xml
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\System.Web.Mvc.xml
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\System.Web.Optimization.xml
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\System.Web.Razor.xml
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\System.Web.WebPages.xml
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\System.Web.WebPages.Deployment.xml
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\System.Web.WebPages.Razor.xml
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Antlr3.Runtime.pdb
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Newtonsoft.Json.xml
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\EntityFramework.xml
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\EntityFramework.SqlServer.xml
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Microsoft.Owin.xml
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Microsoft.Owin.Security.xml
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Microsoft.Owin.Security.Google.xml
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\obj\Debug\Lecture19 - ASP.NET.csprojResolveAssemblyReference.cache
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\obj\Debug\Lecture19___ASP.NET.Migrations.InitialCreate.resources
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\obj\Debug\Lecture19 - ASP.NET.csproj.GenerateResource.Cache
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\obj\Debug\Lecture19 - ASP.NET.dll
+D:\Programs\Project of Visual studio\Projects\Lecture19 - Code First (Migrations)\Lecture19 - ASP.NET\obj\Debug\Lecture19 - ASP.NET.pdb

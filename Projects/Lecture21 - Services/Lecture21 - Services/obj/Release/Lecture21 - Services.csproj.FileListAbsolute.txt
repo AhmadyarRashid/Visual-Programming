@@ -1,0 +1,5 @@
+D:\Programs\Project of Visual studio\Projects\Lecture21 - Services\Lecture21 - Services\bin\Lecture21 - Services.dll.config
+D:\Programs\Project of Visual studio\Projects\Lecture21 - Services\Lecture21 - Services\bin\Lecture21 - Services.dll
+D:\Programs\Project of Visual studio\Projects\Lecture21 - Services\Lecture21 - Services\bin\Lecture21 - Services.pdb
+D:\Programs\Project of Visual studio\Projects\Lecture21 - Services\Lecture21 - Services\obj\Release\Lecture21 - Services.dll
+D:\Programs\Project of Visual studio\Projects\Lecture21 - Services\Lecture21 - Services\obj\Release\Lecture21 - Services.pdb

@@ -1,0 +1,16 @@
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture10\Lecture10\bin\Debug\Lecture10.exe.config
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture10\Lecture10\bin\Debug\Lecture10.exe
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture10\Lecture10\bin\Debug\Lecture10.pdb
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture10\Lecture10\obj\Debug\Lecture10.csprojResolveAssemblyReference.cache
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture10\Lecture10\obj\Debug\MainWindow.baml
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture10\Lecture10\obj\Debug\MainWindow.g.cs
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture10\Lecture10\obj\Debug\App.g.cs
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture10\Lecture10\obj\Debug\Lecture10_MarkupCompile.cache
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture10\Lecture10\obj\Debug\Lecture10.g.resources
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture10\Lecture10\obj\Debug\Lecture10.Properties.Resources.resources
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture10\Lecture10\obj\Debug\Lecture10.csproj.GenerateResource.Cache
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture10\Lecture10\obj\Debug\Lecture10.exe
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture10\Lecture10\obj\Debug\Lecture10.pdb
+D:\Programs\Project of Visual studio\Projects\Lecture09 - WPF Indexers\Lecture10\bin\Debug\Lecture10.exe.config
+D:\Programs\Project of Visual studio\Projects\Lecture09 - WPF Indexers\Lecture10\obj\Debug\Lecture10.exe
+D:\Programs\Project of Visual studio\Projects\Lecture09 - WPF Indexers\Lecture10\obj\Debug\Lecture10.pdb

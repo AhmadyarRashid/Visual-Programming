@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="hm">
+  <DataContextMoniker Name="/hmDataContext" />
+  <nestedChildShapes>
+    <classShape Id="9c22501f-c5b4-4df5-aace-d22301119c50" isExpanded="false" absoluteBounds="4, 5.125, 2, 0.45">
+      <DataClassMoniker Name="/hmDataContext/Employee" />
+      <nestedChildShapes>
+        <elementListCompartment Id="32a2585e-0aa7-4b10-bda5-efe6cce00818" absoluteBounds="4.015, 5.585, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e4c9b174-1c49-4f89-ab2a-1c1db01d67f4" isExpanded="false" absoluteBounds="8.625, 5.625, 2, 0.45">
+      <DataClassMoniker Name="/hmDataContext/ReservationRoom" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b99d915e-70a9-4ed1-a060-a9103af03fa0" absoluteBounds="8.64, 6.085, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(6 : 5.35); (9.625 : 5.35); (9.625 : 5.625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/hmDataContext/Employee/Employee_ReservationRoom" />
+      <nodes>
+        <classShapeMoniker Id="9c22501f-c5b4-4df5-aace-d22301119c50" />
+        <classShapeMoniker Id="e4c9b174-1c49-4f89-ab2a-1c1db01d67f4" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="21bf0175-e982-46d9-994b-2fa9bad55e3b" isExpanded="false" absoluteBounds="5.375, 6.125, 2, 0.45">
+      <DataClassMoniker Name="/hmDataContext/ReservedRoom" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f3bb0aae-62ad-4929-b6c7-82af03d7dc73" absoluteBounds="5.39, 6.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(8.625 : 5.85); (6.375 : 5.85); (6.375 : 6.125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/hmDataContext/ReservationRoom/ReservationRoom_ReservedRoom" />
+      <nodes>
+        <classShapeMoniker Id="e4c9b174-1c49-4f89-ab2a-1c1db01d67f4" />
+        <classShapeMoniker Id="21bf0175-e982-46d9-994b-2fa9bad55e3b" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="2284c9e0-9943-463c-ac94-e8a968d0e4df" isExpanded="false" absoluteBounds="2.5, 6, 2, 0.45">
+      <DataClassMoniker Name="/hmDataContext/Room" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3dc8698a-8110-468c-a74a-cabaa62d48b5" absoluteBounds="2.515, 6.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.5 : 6.2875); (5.375 : 6.2875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/hmDataContext/Room/Room_ReservedRoom" />
+      <nodes>
+        <classShapeMoniker Id="2284c9e0-9943-463c-ac94-e8a968d0e4df" />
+        <classShapeMoniker Id="21bf0175-e982-46d9-994b-2fa9bad55e3b" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

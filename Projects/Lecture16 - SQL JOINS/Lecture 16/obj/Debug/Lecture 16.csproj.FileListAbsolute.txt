@@ -1,0 +1,35 @@
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture 16\Lecture 16\bin\Debug\Lecture 16.exe.config
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture 16\Lecture 16\bin\Debug\Database1.mdf
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture 16\Lecture 16\bin\Debug\Database1_log.ldf
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture 16\Lecture 16\bin\Debug\Lecture 16.exe
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture 16\Lecture 16\bin\Debug\Lecture 16.pdb
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture 16\Lecture 16\obj\Debug\Lecture 16.csprojResolveAssemblyReference.cache
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture 16\Lecture 16\obj\Debug\MainWindow.baml
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture 16\Lecture 16\obj\Debug\MainWindow.g.cs
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture 16\Lecture 16\obj\Debug\App.g.cs
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture 16\Lecture 16\obj\Debug\Lecture 16_Content.g.cs
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture 16\Lecture 16\obj\Debug\Lecture 16_MarkupCompile.cache
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture 16\Lecture 16\obj\Debug\Lecture 16.g.resources
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture 16\Lecture 16\obj\Debug\Lecture_16.Properties.Resources.resources
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture 16\Lecture 16\obj\Debug\Lecture 16.csproj.GenerateResource.Cache
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture 16\Lecture 16\obj\Debug\Lecture 16.exe
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture 16\Lecture 16\obj\Debug\Lecture 16.pdb
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture16 - SQL JOINS\Lecture 16\bin\Debug\Lecture 16.exe.config
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture16 - SQL JOINS\Lecture 16\obj\Debug\Lecture 16.exe
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture16 - SQL JOINS\Lecture 16\obj\Debug\Lecture 16.pdb
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture16 - SQL JOINS\Lecture 16\bin\Debug\Database1.mdf
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture16 - SQL JOINS\Lecture 16\bin\Debug\Database1_log.ldf
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture16 - SQL JOINS\Lecture 16\bin\Debug\Lecture 16.exe
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture16 - SQL JOINS\Lecture 16\bin\Debug\Lecture 16.pdb
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture16 - SQL JOINS\Lecture 16\obj\Debug\Lecture 16.csprojResolveAssemblyReference.cache
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture16 - SQL JOINS\Lecture 16\obj\Debug\MainWindow.baml
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture16 - SQL JOINS\Lecture 16\obj\Debug\MainWindow.g.cs
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture16 - SQL JOINS\Lecture 16\obj\Debug\App.g.cs
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture16 - SQL JOINS\Lecture 16\obj\Debug\Lecture 16_Content.g.cs
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture16 - SQL JOINS\Lecture 16\obj\Debug\Lecture 16_MarkupCompile.cache
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture16 - SQL JOINS\Lecture 16\obj\Debug\Lecture 16.g.resources
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture16 - SQL JOINS\Lecture 16\obj\Debug\Lecture_16.Properties.Resources.resources
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture16 - SQL JOINS\Lecture 16\obj\Debug\Lecture 16.csproj.GenerateResource.Cache
+D:\Programs\Project of Visual studio\Projects\Lecture16 - SQL JOINS\Lecture 16\bin\Debug\Lecture 16.exe.config
+D:\Programs\Project of Visual studio\Projects\Lecture16 - SQL JOINS\Lecture 16\obj\Debug\Lecture 16.exe
+D:\Programs\Project of Visual studio\Projects\Lecture16 - SQL JOINS\Lecture 16\obj\Debug\Lecture 16.pdb

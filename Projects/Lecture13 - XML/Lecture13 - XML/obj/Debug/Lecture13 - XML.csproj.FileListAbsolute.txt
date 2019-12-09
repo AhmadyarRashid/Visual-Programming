@@ -1,0 +1,12 @@
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture13 - XML\Lecture13 - XML\bin\Debug\Lecture13 - XML.exe.config
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture13 - XML\Lecture13 - XML\bin\Debug\Lecture13 - XML.exe
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture13 - XML\Lecture13 - XML\bin\Debug\Lecture13 - XML.pdb
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture13 - XML\Lecture13 - XML\obj\Debug\Lecture13 - XML.csprojResolveAssemblyReference.cache
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture13 - XML\Lecture13 - XML\obj\Debug\Lecture13 - XML.exe
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture13 - XML\Lecture13 - XML\obj\Debug\Lecture13 - XML.pdb
+D:\Programs\Project of Visual studio\Projects\Lecture13 - XML\Lecture13 - XML\bin\Debug\Lecture13 - XML.exe.config
+D:\Programs\Project of Visual studio\Projects\Lecture13 - XML\Lecture13 - XML\obj\Debug\Lecture13 - XML.exe
+D:\Programs\Project of Visual studio\Projects\Lecture13 - XML\Lecture13 - XML\obj\Debug\Lecture13 - XML.pdb
+D:\Programs\Project of Visual studio\Projects\Lecture13 - XML\Lecture13 - XML\bin\Debug\Lecture13 - XML.exe
+D:\Programs\Project of Visual studio\Projects\Lecture13 - XML\Lecture13 - XML\bin\Debug\Lecture13 - XML.pdb
+D:\Programs\Project of Visual studio\Projects\Lecture13 - XML\Lecture13 - XML\obj\Debug\Lecture13 - XML.csprojResolveAssemblyReference.cache

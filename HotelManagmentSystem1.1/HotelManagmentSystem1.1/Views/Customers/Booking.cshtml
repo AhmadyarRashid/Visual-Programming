@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewBag.Title = "Booking";
+}
+<style>
+    .col-md-3 > div {
+        margin: 5px;
+    }
+</style>
+
+<h2>Booking</h2>
+<h3>@ViewBag.name</h3>
+<h4>@ViewBag.rooms</h4>
+<div class="row">
+    <div class="col-md-3">
+        @using (Html.BeginForm("Booking", "Customers", FormMethod.Post))
+        {
+
+
+            <div>
+                <input type="text" name="user" placeholder="user" class="form-control" />
+            </div>
+            <div>
+                <input type="text" name="contact" placeholder="contact" class="form-control" />
+            </div>
+
+            <div>
+                <input type="text" name="address" placeholder="address" class="form-control" />
+            </div>
+
+            <div>
+                <input type="number" min="0" max="5" name="single" placeholder="Single" class="form-control" />
+            </div>
+
+            <div>
+                <input type="number" min="0" max="5" name="double" placeholder="Double" class="form-control" />
+            </div>
+
+            <div>
+                <input type="number" name="singleNights" placeholder="Single room nights" class="form-control" />
+            </div>
+
+            <div>
+                <input type="number" name="doubleNights" placeholder="double room nights" class="form-control" />
+            </div>
+
+            <div>
+                <input type="submit" name="ok" value="Book" class="btn btn-success" />
+            </div>
+
+        }
+    </div>
+</div>

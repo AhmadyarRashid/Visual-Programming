@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="UniversityModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Course">
+    <Key>
+      <PropertyRef Name="CourseNumber" />
+    </Key>
+    <Property Name="CourseNumber" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CourseName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="CreditHours" Type="Int32" />
+    <Property Name="Department" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="CourseOfferings" Relationship="Self.FK_CourseOffering_Course" FromRole="Course" ToRole="CourseOffering" />
+    <NavigationProperty Name="PreReqs" Relationship="Self.FK_PreReq_Course" FromRole="Course" ToRole="PreReq" />
+    <NavigationProperty Name="PreReqs1" Relationship="Self.FK_PreReq_Course_1" FromRole="Course" ToRole="PreReq" />
+  </EntityType>
+  <EntityType Name="CourseOffering">
+    <Key>
+      <PropertyRef Name="OfferingId" />
+    </Key>
+    <Property Name="OfferingId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CourseNumber" Type="Int32" />
+    <Property Name="Semester" Type="Int32" />
+    <Property Name="Year" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Instructor" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Course" Relationship="Self.FK_CourseOffering_Course" FromRole="CourseOffering" ToRole="Course" />
+    <NavigationProperty Name="GradeReports" Relationship="Self.FK_GradeReport_CourseOffering" FromRole="CourseOffering" ToRole="GradeReport" />
+  </EntityType>
+  <EntityType Name="GradeReport">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="StudentNumber" Type="Int32" Nullable="false" />
+    <Property Name="OfferingId" Type="Int32" />
+    <Property Name="Grade" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="CourseOffering" Relationship="Self.FK_GradeReport_CourseOffering" FromRole="GradeReport" ToRole="CourseOffering" />
+    <NavigationProperty Name="Student" Relationship="Self.FK_GradeReport_Student" FromRole="GradeReport" ToRole="Student" />
+  </EntityType>
+  <EntityType Name="PreReq">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="CourseNumber" Type="Int32" Nullable="false" />
+    <Property Name="PreReqNumber" Type="Int32" />
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Course" Relationship="Self.FK_PreReq_Course" FromRole="PreReq" ToRole="Course" />
+    <NavigationProperty Name="Course1" Relationship="Self.FK_PreReq_Course_1" FromRole="PreReq" ToRole="Course" />
+  </EntityType>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="StudentNumber" />
+    </Key>
+    <Property Name="StudentNumber" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Class" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Major" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="GradeReports" Relationship="Self.FK_GradeReport_Student" FromRole="Student" ToRole="GradeReport" />
+  </EntityType>
+  <Association Name="FK_CourseOffering_Course">
+    <End Role="Course" Type="Self.Course" Multiplicity="0..1" />
+    <End Role="CourseOffering" Type="Self.CourseOffering" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Course">
+        <PropertyRef Name="CourseNumber" />
+      </Principal>
+      <Dependent Role="CourseOffering">
+        <PropertyRef Name="CourseNumber" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PreReq_Course">
+    <End Role="Course" Type="Self.Course" Multiplicity="1" />
+    <End Role="PreReq" Type="Self.PreReq" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Course">
+        <PropertyRef Name="CourseNumber" />
+      </Principal>
+      <Dependent Role="PreReq">
+        <PropertyRef Name="CourseNumber" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PreReq_Course_1">
+    <End Role="Course" Type="Self.Course" Multiplicity="0..1" />
+    <End Role="PreReq" Type="Self.PreReq" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Course">
+        <PropertyRef Name="CourseNumber" />
+      </Principal>
+      <Dependent Role="PreReq">
+        <PropertyRef Name="PreReqNumber" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GradeReport_CourseOffering">
+    <End Role="CourseOffering" Type="Self.CourseOffering" Multiplicity="0..1" />
+    <End Role="GradeReport" Type="Self.GradeReport" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CourseOffering">
+        <PropertyRef Name="OfferingId" />
+      </Principal>
+      <Dependent Role="GradeReport">
+        <PropertyRef Name="OfferingId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GradeReport_Student">
+    <End Role="Student" Type="Self.Student" Multiplicity="1" />
+    <End Role="GradeReport" Type="Self.GradeReport" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Student">
+        <PropertyRef Name="StudentNumber" />
+      </Principal>
+      <Dependent Role="GradeReport">
+        <PropertyRef Name="StudentNumber" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="UniversityEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Courses" EntityType="Self.Course" />
+    <EntitySet Name="CourseOfferings" EntityType="Self.CourseOffering" />
+    <EntitySet Name="GradeReports" EntityType="Self.GradeReport" />
+    <EntitySet Name="PreReqs" EntityType="Self.PreReq" />
+    <EntitySet Name="Students" EntityType="Self.Student" />
+    <AssociationSet Name="FK_CourseOffering_Course" Association="Self.FK_CourseOffering_Course">
+      <End Role="Course" EntitySet="Courses" />
+      <End Role="CourseOffering" EntitySet="CourseOfferings" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PreReq_Course" Association="Self.FK_PreReq_Course">
+      <End Role="Course" EntitySet="Courses" />
+      <End Role="PreReq" EntitySet="PreReqs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PreReq_Course_1" Association="Self.FK_PreReq_Course_1">
+      <End Role="Course" EntitySet="Courses" />
+      <End Role="PreReq" EntitySet="PreReqs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GradeReport_CourseOffering" Association="Self.FK_GradeReport_CourseOffering">
+      <End Role="CourseOffering" EntitySet="CourseOfferings" />
+      <End Role="GradeReport" EntitySet="GradeReports" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GradeReport_Student" Association="Self.FK_GradeReport_Student">
+      <End Role="Student" EntitySet="Students" />
+      <End Role="GradeReport" EntitySet="GradeReports" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

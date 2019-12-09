@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfApplication3.Available"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Available" Height="300" Width="300">
+    <StackPanel>
+        <TextBlock Text="Available Rooms" HorizontalAlignment="Center" Height="15" FontSize="14" FontWeight="Bold"  ></TextBlock>
+        
+        <StackPanel Orientation="Horizontal" Margin="15">
+            <RadioButton GroupName="Os" Content="ALL" Name="all" Margin="5,5,5,5"  Checked="RadioButton_Checked" />
+            <RadioButton GroupName="Os" Content="SINGLE" Margin="5,5,5,5" Checked="RadioButton_Checked_1" />
+            <RadioButton GroupName="Os" Content="DOUBLE" Margin="5,5,5,5" Checked="RadioButton_Checked_2" />
+          
+
+        </StackPanel>
+        
+        <DataGrid Name="availableRoomDG"/>
+        
+    </StackPanel>
+</Window>

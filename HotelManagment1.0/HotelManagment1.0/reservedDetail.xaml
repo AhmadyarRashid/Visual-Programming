@@ -1,0 +1,8 @@
+﻿<Window x:Class="HotelManagment1._0.reservedDetail"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="reservedDetail" Height="1300" Width="980">
+    <Grid>
+        <DataGrid Name="reservedDG"/>
+    </Grid>
+</Window>

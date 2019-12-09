@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="HM" Class="hmDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\HM.mdf;Integrated Security=True" SettingsObjectName="HotelManagment1._0.Properties.Settings" SettingsPropertyName="HMConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.ReservationRoom" Member="ReservationRooms">
+    <Type Name="ReservationRoom">
+      <Column Name="res_id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="guest_name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="guest_contact" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="guest_address" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="date_in" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="date_out" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="madeBy" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="booking_date" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="single" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="[double]" Member="double" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="deluxe" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Association Name="ReservationRoom_ReservedRoom" Member="ReservedRooms" ThisKey="res_id" OtherKey="res_id" Type="ReservedRoom" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ReservedRoom" Member="ReservedRooms">
+    <Type Name="ReservedRoom">
+      <Column Name="res_room_id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="res_id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="type" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="quantity" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Association Name="ReservationRoom_ReservedRoom" Member="ReservationRoom" ThisKey="res_id" OtherKey="res_id" Type="ReservationRoom" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Room" Member="Rooms">
+    <Type Name="Room">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="room_no" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="status" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="room_type" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="price" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

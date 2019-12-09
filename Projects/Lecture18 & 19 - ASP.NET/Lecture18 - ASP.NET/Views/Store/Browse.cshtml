@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "Browse";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.Message</h2>
+
+@using (Html.BeginForm("Browse", "Store", FormMethod.Post)) {
+
+    <label>Enter Value</label>
+    <input name="value" type="text" />
+    <input name="Search" value="SearchBtn" type="submit" />
+    
+}
+   

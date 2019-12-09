@@ -1,0 +1,15 @@
+c:\users\mahad\documents\visual studio 2013\Projects\ServiceConsumer\ServiceConsumer\bin\Debug\ServiceConsumer.exe.config
+c:\users\mahad\documents\visual studio 2013\Projects\ServiceConsumer\ServiceConsumer\obj\Debug\MainWindow.baml
+c:\users\mahad\documents\visual studio 2013\Projects\ServiceConsumer\ServiceConsumer\obj\Debug\MainWindow.g.cs
+c:\users\mahad\documents\visual studio 2013\Projects\ServiceConsumer\ServiceConsumer\obj\Debug\App.g.cs
+c:\users\mahad\documents\visual studio 2013\Projects\ServiceConsumer\ServiceConsumer\obj\Debug\ServiceConsumer_MarkupCompile.cache
+c:\users\mahad\documents\visual studio 2013\Projects\ServiceConsumer\ServiceConsumer\obj\Debug\ServiceConsumer.g.resources
+c:\users\mahad\documents\visual studio 2013\Projects\ServiceConsumer\ServiceConsumer\obj\Debug\ServiceConsumer.Properties.Resources.resources
+c:\users\mahad\documents\visual studio 2013\Projects\ServiceConsumer\ServiceConsumer\obj\Debug\ServiceConsumer.csproj.GenerateResource.Cache
+c:\users\mahad\documents\visual studio 2013\Projects\ServiceConsumer\ServiceConsumer\bin\Debug\ServiceConsumer.exe
+c:\users\mahad\documents\visual studio 2013\Projects\ServiceConsumer\ServiceConsumer\bin\Debug\ServiceConsumer.pdb
+c:\users\mahad\documents\visual studio 2013\Projects\ServiceConsumer\ServiceConsumer\obj\Debug\ServiceConsumer.exe
+c:\users\mahad\documents\visual studio 2013\Projects\ServiceConsumer\ServiceConsumer\obj\Debug\ServiceConsumer.pdb
+D:\Programs\Project of Visual studio\Projects\Lecture21 - ServiceConsumer\ServiceConsumer\bin\Debug\ServiceConsumer.exe.config
+D:\Programs\Project of Visual studio\Projects\Lecture21 - ServiceConsumer\ServiceConsumer\obj\Debug\ServiceConsumer.exe
+D:\Programs\Project of Visual studio\Projects\Lecture21 - ServiceConsumer\ServiceConsumer\obj\Debug\ServiceConsumer.pdb

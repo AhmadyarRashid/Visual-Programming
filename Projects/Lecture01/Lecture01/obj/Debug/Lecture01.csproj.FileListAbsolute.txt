@@ -1,0 +1,11 @@
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture01\Lecture01\bin\Debug\Lecture01.exe.config
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture01\Lecture01\bin\Debug\Lecture01.exe
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture01\Lecture01\bin\Debug\Lecture01.pdb
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture01\Lecture01\obj\Debug\Lecture01.exe
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture01\Lecture01\obj\Debug\Lecture01.pdb
+D:\Programs\Project of Visual studio\Projects\Lecture01\Lecture01\bin\Debug\Lecture01.exe.config
+D:\Programs\Project of Visual studio\Projects\Lecture01\Lecture01\obj\Debug\Lecture01.exe
+D:\Programs\Project of Visual studio\Projects\Lecture01\Lecture01\obj\Debug\Lecture01.pdb
+D:\Programs\Project of Visual studio\Projects\Lecture01\Lecture01\bin\Debug\Lecture01.exe
+D:\Programs\Project of Visual studio\Projects\Lecture01\Lecture01\bin\Debug\Lecture01.pdb
+D:\Programs\Project of Visual studio\Projects\Lecture01\Lecture01\obj\Debug\Lecture01.csprojResolveAssemblyReference.cache

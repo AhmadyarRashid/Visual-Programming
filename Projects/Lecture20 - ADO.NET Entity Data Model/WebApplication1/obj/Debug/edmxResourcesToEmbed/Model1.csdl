@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="JPDatabaseModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Admin">
+    <Key>
+      <PropertyRef Name="AdminId" />
+    </Key>
+    <Property Name="AdminId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AdminName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="JobApplication">
+    <Key>
+      <PropertyRef Name="ApplicationId" />
+    </Key>
+    <Property Name="ApplicationId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Candidate" Type="Int32" Nullable="false" />
+    <Property Name="ListingId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Listing" Relationship="Self.FK_JobApplication_Listing" FromRole="JobApplication" ToRole="Listing" />
+  </EntityType>
+  <EntityType Name="Listing">
+    <Key>
+      <PropertyRef Name="ListingId" />
+    </Key>
+    <Property Name="ListingId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ListingDescription" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ListedDate" Type="DateTime" Precision="3" />
+    <Property Name="GpaRequirement" Type="Double" />
+    <Property Name="ExperienceRequirement" Type="Double" />
+    <Property Name="OpenToAll" Type="Int32" />
+    <Property Name="ListingTitle" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="AgeRequirement" Type="Double" />
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="JobApplications" Relationship="Self.FK_JobApplication_Listing" FromRole="Listing" ToRole="JobApplication" />
+  </EntityType>
+  <EntityType Name="Message">
+    <Key>
+      <PropertyRef Name="MessageId" />
+    </Key>
+    <Property Name="MessageId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Sender" Type="Int32" Nullable="false" />
+    <Property Name="Receiver" Type="Int32" Nullable="false" />
+    <Property Name="MessageBody" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="MessageTime" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="MessageTitle" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <Association Name="FK_JobApplication_Listing">
+    <End Role="Listing" Type="Self.Listing" Multiplicity="1" />
+    <End Role="JobApplication" Type="Self.JobApplication" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Listing">
+        <PropertyRef Name="ListingId" />
+      </Principal>
+      <Dependent Role="JobApplication">
+        <PropertyRef Name="ListingId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="JPDatabaseEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Admins" EntityType="Self.Admin" />
+    <EntitySet Name="JobApplications" EntityType="Self.JobApplication" />
+    <EntitySet Name="Listings" EntityType="Self.Listing" />
+    <EntitySet Name="Messages" EntityType="Self.Message" />
+    <AssociationSet Name="FK_JobApplication_Listing" Association="Self.FK_JobApplication_Listing">
+      <End Role="Listing" EntitySet="Listings" />
+      <End Role="JobApplication" EntitySet="JobApplications" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

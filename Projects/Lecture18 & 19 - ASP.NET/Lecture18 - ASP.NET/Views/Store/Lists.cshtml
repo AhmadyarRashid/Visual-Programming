@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "Lists";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Lists</h2>
+
+
+
+        
+
+            @foreach (dynamic var in ViewBag.mahadList)
+            { //dynamic is to razor as var is to c#. Prefferable to use dynamic in razor
+                <ol>
+                    <li>@var.albumId</li>
+                    <li>@var.title</li>
+                    <li>@var.artist</li>
+                   
+
+                </ol>
+
+            }

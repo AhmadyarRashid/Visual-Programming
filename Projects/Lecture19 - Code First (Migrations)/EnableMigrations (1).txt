@@ -1,0 +1,7 @@
+Enable-Migrations
+
+Enable-Migrations -ContextTypeName MVC_CodeFirst_A.Models.MVC_CodeFirst_AContext
+
+Enable-Migrations -ContextTypeName MVC_CodeFirst_A.Models.MVC_CodeFirst_AContext -EnableAutomaticMigrations
+
+Enable-Migrations -ContextTypeName MVC_CodeFirst_A.Models.MVC_CodeFirst_AContext -EnableAutomaticMigrations -Force

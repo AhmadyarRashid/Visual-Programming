@@ -1,0 +1,5 @@
+D:\Programs\Project of Visual studio\Interface\Interface\bin\Debug\Interface.exe.config
+D:\Programs\Project of Visual studio\Interface\Interface\bin\Debug\Interface.exe
+D:\Programs\Project of Visual studio\Interface\Interface\bin\Debug\Interface.pdb
+D:\Programs\Project of Visual studio\Interface\Interface\obj\Debug\Interface.exe
+D:\Programs\Project of Visual studio\Interface\Interface\obj\Debug\Interface.pdb

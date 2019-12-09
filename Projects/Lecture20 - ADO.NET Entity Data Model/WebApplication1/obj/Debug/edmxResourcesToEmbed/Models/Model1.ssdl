@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="UniversityModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Course">
+    <Key>
+      <PropertyRef Name="CourseNumber" />
+    </Key>
+    <Property Name="CourseNumber" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CourseName" Type="nvarchar(max)" />
+    <Property Name="CreditHours" Type="int" />
+    <Property Name="Department" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="CourseOffering">
+    <Key>
+      <PropertyRef Name="OfferingId" />
+    </Key>
+    <Property Name="OfferingId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CourseNumber" Type="int" />
+    <Property Name="Semester" Type="int" />
+    <Property Name="Year" Type="nvarchar(max)" />
+    <Property Name="Instructor" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="GradeReport">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="StudentNumber" Type="int" Nullable="false" />
+    <Property Name="OfferingId" Type="int" />
+    <Property Name="Grade" Type="nvarchar(max)" />
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PreReq">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="CourseNumber" Type="int" Nullable="false" />
+    <Property Name="PreReqNumber" Type="int" />
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="StudentNumber" />
+    </Key>
+    <Property Name="StudentNumber" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" />
+    <Property Name="Class" Type="nvarchar(max)" />
+    <Property Name="Major" Type="nvarchar(max)" />
+  </EntityType>
+  <Association Name="FK_CourseOffering_Course">
+    <End Role="Course" Type="Self.Course" Multiplicity="0..1" />
+    <End Role="CourseOffering" Type="Self.CourseOffering" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Course">
+        <PropertyRef Name="CourseNumber" />
+      </Principal>
+      <Dependent Role="CourseOffering">
+        <PropertyRef Name="CourseNumber" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GradeReport_CourseOffering">
+    <End Role="CourseOffering" Type="Self.CourseOffering" Multiplicity="0..1" />
+    <End Role="GradeReport" Type="Self.GradeReport" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CourseOffering">
+        <PropertyRef Name="OfferingId" />
+      </Principal>
+      <Dependent Role="GradeReport">
+        <PropertyRef Name="OfferingId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GradeReport_Student">
+    <End Role="Student" Type="Self.Student" Multiplicity="1" />
+    <End Role="GradeReport" Type="Self.GradeReport" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Student">
+        <PropertyRef Name="StudentNumber" />
+      </Principal>
+      <Dependent Role="GradeReport">
+        <PropertyRef Name="StudentNumber" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PreReq_Course">
+    <End Role="Course" Type="Self.Course" Multiplicity="1" />
+    <End Role="PreReq" Type="Self.PreReq" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Course">
+        <PropertyRef Name="CourseNumber" />
+      </Principal>
+      <Dependent Role="PreReq">
+        <PropertyRef Name="CourseNumber" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PreReq_Course_1">
+    <End Role="Course" Type="Self.Course" Multiplicity="0..1" />
+    <End Role="PreReq" Type="Self.PreReq" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Course">
+        <PropertyRef Name="CourseNumber" />
+      </Principal>
+      <Dependent Role="PreReq">
+        <PropertyRef Name="PreReqNumber" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="UniversityModelStoreContainer">
+    <EntitySet Name="Course" EntityType="Self.Course" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CourseOffering" EntityType="Self.CourseOffering" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="GradeReport" EntityType="Self.GradeReport" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PreReq" EntityType="Self.PreReq" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Student" EntityType="Self.Student" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_CourseOffering_Course" Association="Self.FK_CourseOffering_Course">
+      <End Role="Course" EntitySet="Course" />
+      <End Role="CourseOffering" EntitySet="CourseOffering" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GradeReport_CourseOffering" Association="Self.FK_GradeReport_CourseOffering">
+      <End Role="CourseOffering" EntitySet="CourseOffering" />
+      <End Role="GradeReport" EntitySet="GradeReport" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GradeReport_Student" Association="Self.FK_GradeReport_Student">
+      <End Role="Student" EntitySet="Student" />
+      <End Role="GradeReport" EntitySet="GradeReport" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PreReq_Course" Association="Self.FK_PreReq_Course">
+      <End Role="Course" EntitySet="Course" />
+      <End Role="PreReq" EntitySet="PreReq" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PreReq_Course_1" Association="Self.FK_PreReq_Course_1">
+      <End Role="Course" EntitySet="Course" />
+      <End Role="PreReq" EntitySet="PreReq" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

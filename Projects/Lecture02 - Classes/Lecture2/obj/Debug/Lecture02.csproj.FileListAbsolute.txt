@@ -1,0 +1,15 @@
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture02\Lecture2\bin\Debug\Lecture2.exe.config
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture02\Lecture2\obj\Debug\Lecture2.exe
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture02\Lecture2\obj\Debug\Lecture2.pdb
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture02\Lecture2\bin\Debug\Lecture2.exe
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture02\Lecture2\bin\Debug\Lecture2.pdb
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture02\Lecture2\obj\Debug\Lecture02.csprojResolveAssemblyReference.cache
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture02 - Classes\Lecture2\bin\Debug\Lecture2.exe.config
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture02 - Classes\Lecture2\obj\Debug\Lecture2.exe
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture02 - Classes\Lecture2\obj\Debug\Lecture2.pdb
+D:\Programs\Project of Visual studio\Projects\Lecture02 - Classes\Lecture2\bin\Debug\Lecture2.exe.config
+D:\Programs\Project of Visual studio\Projects\Lecture02 - Classes\Lecture2\obj\Debug\Lecture2.exe
+D:\Programs\Project of Visual studio\Projects\Lecture02 - Classes\Lecture2\obj\Debug\Lecture2.pdb
+D:\Programs\Project of Visual studio\Projects\Lecture02 - Classes\Lecture2\bin\Debug\Lecture2.exe
+D:\Programs\Project of Visual studio\Projects\Lecture02 - Classes\Lecture2\bin\Debug\Lecture2.pdb
+D:\Programs\Project of Visual studio\Projects\Lecture02 - Classes\Lecture2\obj\Debug\Lecture02.csprojResolveAssemblyReference.cache

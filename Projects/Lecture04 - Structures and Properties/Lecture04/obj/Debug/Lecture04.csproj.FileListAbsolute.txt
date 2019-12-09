@@ -1,0 +1,18 @@
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture04\Lecture04\bin\Debug\Lecture04.exe.config
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture04\Lecture04\obj\Debug\Lecture04.csprojResolveAssemblyReference.cache
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture04\Lecture04\bin\Debug\Lecture04.exe
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture04\Lecture04\bin\Debug\Lecture04.pdb
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture04\Lecture04\obj\Debug\Lecture04.exe
+c:\users\mahad\documents\visual studio 2013\Projects\Lecture04\Lecture04\obj\Debug\Lecture04.pdb
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture04 - Structures and Properties\Lecture04\bin\Debug\Lecture04.exe.config
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture04 - Structures and Properties\Lecture04\obj\Debug\Lecture04.exe
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture04 - Structures and Properties\Lecture04\obj\Debug\Lecture04.pdb
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture04 - Structures and Properties\Lecture04\bin\Debug\Lecture04.exe
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture04 - Structures and Properties\Lecture04\bin\Debug\Lecture04.pdb
+C:\Users\Mahad\Documents\Visual Studio 2013\Projects\Lecture04 - Structures and Properties\Lecture04\obj\Debug\Lecture04.csprojResolveAssemblyReference.cache
+D:\Programs\Project of Visual studio\Projects\Lecture04 - Structures and Properties\Lecture04\bin\Debug\Lecture04.exe.config
+D:\Programs\Project of Visual studio\Projects\Lecture04 - Structures and Properties\Lecture04\obj\Debug\Lecture04.exe
+D:\Programs\Project of Visual studio\Projects\Lecture04 - Structures and Properties\Lecture04\obj\Debug\Lecture04.pdb
+D:\Programs\Project of Visual studio\Projects\Lecture04 - Structures and Properties\Lecture04\bin\Debug\Lecture04.exe
+D:\Programs\Project of Visual studio\Projects\Lecture04 - Structures and Properties\Lecture04\bin\Debug\Lecture04.pdb
+D:\Programs\Project of Visual studio\Projects\Lecture04 - Structures and Properties\Lecture04\obj\Debug\Lecture04.csprojResolveAssemblyReference.cache
